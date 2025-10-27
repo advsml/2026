@@ -7,16 +7,20 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: quarto-dev/quarto-actions/setup@v2
-      - run: quarto render index.qmd
-      - name: Commit rendered site
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Auto-render site" || echo "No changes to commit"
-          git push
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render index.qmd
+
+      - name: Publish to GitHub Pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
