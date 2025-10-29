@@ -33,7 +33,6 @@ The workshop will take place 9-10 April 2026 at the University of Tartu, Estonia
 
 ## Program
 
-<!--
 | Day/time        | Topic                                                                                           |
 | --------------- | ----------------------------------------------------------------------------------------------- |
 | __Wed, April 8__ |                                                                                                 |
