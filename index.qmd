@@ -31,6 +31,25 @@ The workshop will take place 9-10 April 2026 at the University of Tartu, Estonia
 
 <!-- ([OpenStreetMap](https://www.openstreetmap.org/node/2122669361#map=19/51.969496/7.595801), [Google Maps](https://maps.app.goo.gl/xnPyqwSmXPi2EDvd8)) -->
 
+## Program
+
+<!--
+| Day/time        | Topic                                                                                           |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| __Wed, April 8__ |                                                                                                 |
+|                 |                                                                                                 |
+| evening           | *Ice breaker*                                                          |
+|                 |                                                                                                 |
+|                 |                                                                     |
+| __Thu, April 9__ |                                                                                                 |
+| 9:00--17:00     | **Workshop** (more detailed agenda TBA)                 |                                          |
+|                 |                                                                                                 |
+| evening          | *Joint dinner*                                                        |
+|                 |                                                                                                 |
+| __Fri, April 10__ |                                                                                                 |
+| 9:00-13:30      | **Workshop** (more detailed agenda TBA)                         |
+
+
 <!-- ## Program -->
 
 <!--
