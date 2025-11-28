@@ -109,12 +109,13 @@ By bringing together experts in the field, we anticipate:
 
 This workshop represents a unique opportunity to shape the future of spatial machine learning in ecological research by focusing on open questions and challenges.
 
-<!-- ## Organizers -->
+## Organizers
 
-<!--
+- [Evelyn Uuemaa, Landscape Geoinformatics Lab, University of Tartu](https://landscape-geoinformatics.ut.ee/)
+- [Marta Jemeljanova, Landscape Geoinformatics Lab, University of Tartu](https://landscape-geoinformatics.ut.ee/)
 - [Hanna Meyer, University of Münster](https://www.uni-muenster.de/RemoteSensing/team/meyer/index.html)
 - [Jakub Nowosad, Adam Mickiewicz University; University of Münster](https://jakubnowosad.com/)
--->
+
 
 ## Supported by
 
