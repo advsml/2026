@@ -119,7 +119,7 @@ This workshop represents a unique opportunity to shape the future of spatial mac
 ## Supported by
 
 
-![etag|768x234,20%](figs/etag_lilla_eng.png)
+![etag|768x234,20%](figs/etag_lilla_eng.png|width=50)
 ![](figs/FutureScapes_dark.png)
 ![](figs/htm_eng.png)
 ![](figs/maastikugeoinformaatika labor_eng.png)
