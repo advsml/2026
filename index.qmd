@@ -123,5 +123,5 @@ This workshop represents a unique opportunity to shape the future of spatial mac
 ![](figs/FutureScapes_dark.png)
 ![](figs/htm_eng.png)
 ![](figs/maastikugeoinformaatika labor_eng.png)
-![](figs/WaterSmartLand_logo_1.png)
+![](figs/erc_logo.png)
 
