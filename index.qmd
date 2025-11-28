@@ -10,14 +10,14 @@ subtitle: "A Two-Day Scientific Workshop"
 This two-day scientific workshop aims to bring together leading researchers in the field of spatial machine learning. 
 Unlike many conferences that focus on showcasing achievements, our goal is to address unsolved issues and open questions, fostering innovation and collaboration.
 
-<!-- ## Key Topics -->
+## Key Topics (preliminary)
 
-<!-- 1. **Validation and Preservation of Spatial Patterns**: Ensuring models provide accurate local predictions while preserving important spatial patterns. -->
-<!-- 2. **Comparable Approaches Across Algorithm Types**: Investigating how different algorithms (e.g., traditional vs. deep learning) can be compared and integrated for improved spatial predictions. -->
-<!-- 3. **Analysis and Communication of Prediction Uncertainties**: Discussing methods for analyzing and communicating uncertainties in spatial predictions for informed decision-making. -->
-<!-- 4. **Standardized Documentation Protocols**: Developing standardized documentation for spatial machine learning models to enhance reproducibility and knowledge transfer. -->
-<!-- 5. **Comparability between Wrapper Packages**: Exploring differences and similarities between popular software packages like caret/CAST, tidymodels, mlr3, and sits to promote interoperability. -->
-<!-- 6. **Cutting-Edge Developments**: A session dedicated to discussing the latest developments and emerging trends in spatial machine learning. -->
+1. **Validation and Preservation of Spatial Patterns**: Ensuring models provide accurate local predictions while preserving important spatial patterns.
+2. **(Spatial) xAI**
+3. **How to ensure that the spatial ML model is useful?**: how to avoid overfitting, do we need better algorithms or better training and validation data?
+4. **Common mistakes in spatial ML**
+5. **New methods/emerging trends** (e.g., foundational models, conformal predictions, etc.)
+6. **An "open" session** - we welcome participants to propose relevant topics.
 
 ## Location and Date
 
@@ -116,11 +116,12 @@ This workshop represents a unique opportunity to shape the future of spatial mac
 - [Jakub Nowosad, Adam Mickiewicz University; University of Münster](https://jakubnowosad.com/)
 -->
 
-<!-- ## Supported by -->
+-- ## Supported by
 
-<!--
-![](figs/Logo_Universität_Münster.svg.png)
-![](figs/logo_remotesenising_en.png)
-![](figs/EN-Funded%20by%20the%20EU-POS.jpg)
 
--->
+![](figs/etag_lilla_eng.png)
+![](figs/FutureScapes_dark.png)
+![](figs/htm_eng.png)
+![](figs/maastikugeoinformaatika labor_eng.png)
+![](figs/WaterSmartLand_logo_1.png)
+
