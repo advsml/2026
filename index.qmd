@@ -116,10 +116,10 @@ This workshop represents a unique opportunity to shape the future of spatial mac
 - [Jakub Nowosad, Adam Mickiewicz University; University of Münster](https://jakubnowosad.com/)
 -->
 
--- ## Supported by
+## Supported by
 
 
-![](figs/etag_lilla_eng.png)
+![etag|768x234,20%](figs/etag_lilla_eng.png)
 ![](figs/FutureScapes_dark.png)
 ![](figs/htm_eng.png)
 ![](figs/maastikugeoinformaatika labor_eng.png)
