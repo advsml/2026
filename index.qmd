@@ -116,9 +116,7 @@ This workshop represents a unique opportunity to shape the future of spatial mac
 - [Hanna Meyer, University of Münster](https://www.uni-muenster.de/RemoteSensing/team/meyer/index.html)
 - [Jakub Nowosad, Adam Mickiewicz University; University of Münster](https://jakubnowosad.com/)
 
-
 ## Supported by
-
 
 ![](figs/etag_lilla_eng.png)
 ![](figs/FutureScapes_dark.png)
