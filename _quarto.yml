@@ -1,2 +1,7 @@
 project:
   type: website
+
+format:
+  html:
+    grid:
+      body-width: 1000px
