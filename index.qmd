@@ -71,6 +71,7 @@ We invited researchers actively working on spatial machine and deep learning:
 - Lily-belle Sweet
 - Mahdi Khodadadzadeh 
 - Alexander Kmoch
+- Iris Luik
 - Liina Hints
 - Jeonghwan Choi
 - Evelyn Uuemaa
