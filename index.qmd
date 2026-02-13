@@ -54,7 +54,7 @@ The workshop will take place 9-10 April 2026 at the University of Tartu Library,
 | 12:30-13:30     | Lunch /Posters                                             |
 | 13:30-15:00     | Wrap-up and future plans                                   |
 
-## Open session: posters
+### Open session: posters
 
 If you would like to present a poster related to your work in spatial machine learning, we will have a poster session area available during all coffee breaks and lunch sessions. We especially encourage PhD students to bring and present their posters.
 
