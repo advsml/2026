@@ -36,23 +36,24 @@ The workshop will take place 9-10 April 2026 at the University of Tartu Library,
 | Day/time        | Topic                                                      |
 | --------------- | ---------------------------------------------------------- |
 | __Wed, Apr 8__ |                                                             |
-| 19:00--...     | Ice breaker at [Gunpowder cellar](https://maps.app.goo.gl/Kid5ZUfNhM3Ff9ov6)   |
+| 19:30--...     | Ice breaker at [Gunpowder cellar](https://maps.app.goo.gl/Kid5ZUfNhM3Ff9ov6)   |
 | __Thu, Apr 9__ |                                                             |
 | 9:00--10:30    | Introductions                                               |
 | 10:30--11:00   | Coffee break/ Posters                                       |
-| 11:00--12:30   |  Session: Common mistakes/challenges in spatial ML          |
+| 11:00--12:30   |  Session: Common mistakes/challenges in spatial ML. Chair: Alexander Brenning          |
 | 12:30--13:30   | Lunch/ Posters                                              |
-| 13:30--15:00   | Session: How to ensure that the spatial ML model is useful?   |
+| 13:30--15:00   | Session: How to ensure that the spatial ML model is useful? Chair: Laura Poggio  |
 | 15:00--15:30   | Coffee break/ Posters                                       |
-| 15:30--17:00   | Session: Spatial validation                                 |
+| 15:30--17:00   | Session: Spatial validation. Chairs: Hanna Meyer, Jakub Nowosad, Mahdi Khodadadzadeh                                |
 | 18:00--19:30   | City Excursion                                              |
 | 19:30--...     | Joint dinner at [Kolm Tilli](https://maps.app.goo.gl/PHMDmYJb6BmThmeP9)    |
 | __Fri, Apr 10__ |                                                            |
-| 9:00-10:30      | Session: xAI in spatial ML                                 |
+| 9:00-10:30      | Session: xAI in spatial ML. Chair: Lily-Belle Sweet                                 |
 | 10:30-11:00     |  Coffee break /Posters                                     |
-| 11:00-12:30     | Emerging trends: Foundation models and DGGS for spatial ML       |
+| 11:00-12:30     | Emerging trends: Foundation models in spatial ML. Chair: Jonas Schmidinger       |
 | 12:30-13:30     | Lunch /Posters                                             |
-| 13:30-15:00     | Wrap-up and future plans                                   |
+| 13:30-15:00     | Emerging trends: DGGS in spatial ML. Chair: Alexander Kmoch        |
+| 15:30-17:00     | Wrap-up and future plans                                   |
 
 ### Open session: posters
 
@@ -60,10 +61,9 @@ If you would like to present a poster related to your work in spatial machine le
 
 ## Participants
 
-We invited researchers actively working on spatial machine and deep learning:
+We invited researchers actively working on spatial machine learning and deep learning:
 
 - Alexander Brenning
-- Carmelo Bonannella
 - Laura Poggio
 - Felix Henkel
 - Jonas Schmidinger
