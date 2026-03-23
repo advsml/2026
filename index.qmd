@@ -53,6 +53,7 @@ The workshop will take place 9-10 April 2026 at the University of Tartu Library,
 | 11:00-12:30     | Emerging trends: Foundation models in spatial ML. Chair: Jonas Schmidinger       |
 | 12:30-13:30     | Lunch /Posters                                             |
 | 13:30-15:00     | Emerging trends: DGGS in spatial ML. Chair: Alexander Kmoch        |
+| 15:00-15:30     |  Coffee break /Posters                                     |
 | 15:30-17:00     | Wrap-up and future plans                                   |
 
 ### Open session: posters
