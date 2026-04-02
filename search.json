@@ -7,11 +7,11 @@
     "text": "Workshop Overview\nThis two-day scientific workshop aims to bring together leading researchers in the field of spatial machine learning. Unlike many conferences that focus on showcasing achievements, our goal is to address unsolved issues and open questions, fostering innovation and collaboration."
   },
   {
-    "objectID": "index.html#key-topics-preliminary",
-    "href": "index.html#key-topics-preliminary",
+    "objectID": "index.html#key-topics",
+    "href": "index.html#key-topics",
     "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Key Topics (preliminary)",
-    "text": "Key Topics (preliminary)\n\nValidation and Preservation of Spatial Patterns: Ensuring models provide accurate local predictions while preserving important spatial patterns.\n(Spatial) xAI\nHow to ensure that the spatial ML model is useful?: how to avoid overfitting, do we need better algorithms or better training and validation data?\nCommon mistakes in spatial ML\nNew methods/emerging trends (e.g., foundational models, conformal predictions, etc.)\nAn “open” session - we welcome participants to propose relevant topics."
+    "section": "Key Topics",
+    "text": "Key Topics\n\nValidation and Preservation of Spatial Patterns: Ensuring models provide accurate local predictions while preserving important spatial patterns.\n(Spatial) xAI\nHow to ensure that the spatial ML model is useful?: how to avoid overfitting, do we need better algorithms or better training and validation data?\nCommon mistakes in spatial ML\nNew methods/emerging trends (e.g., foundational models, conformal predictions, etc.)\nAn “open” session - we welcome participants to propose relevant topics."
   },
   {
     "objectID": "index.html#location-and-date",
