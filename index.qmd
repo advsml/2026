@@ -10,7 +10,7 @@ subtitle: "A Two-Day Scientific Workshop"
 This two-day scientific workshop aims to bring together leading researchers in the field of spatial machine learning. 
 Unlike many conferences that focus on showcasing achievements, our goal is to address unsolved issues and open questions, fostering innovation and collaboration.
 
-## Key Topics (preliminary)
+## Key Topics
 
 1. **Validation and Preservation of Spatial Patterns**: Ensuring models provide accurate local predictions while preserving important spatial patterns.
 2. **(Spatial) xAI**
